@@ -1,0 +1,7 @@
+Model/*
+*.jpg
+*.pb
+*.h5
+*.pickle
+database/*
+
